@@ -1,0 +1,10 @@
+---
+BasedOnStyle: Google
+AlwaysBreakBeforeMultilineStrings: 'true'
+BreakBeforeBinaryOperators: All
+BreakBeforeBraces: Allman
+Language: Cpp
+NamespaceIndentation: All
+PointerAlignment: Right
+ColumnLimit: 120
+...

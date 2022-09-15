@@ -1,0 +1,7 @@
+r
+h
+loadfile build\motor_testkit.bin, 0x08008000
+g
+verifybin build\motor_testkit.bin, 0x08008000
+r
+q
